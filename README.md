@@ -1,11 +1,15 @@
 
-total stars followers views
-
 👨🏻‍💻 About Me
+
+
+
 💡 I am a passionate mobile and web engineer  with great interest in developing and programming software.
 💻 I’m currently working on something cool .
 ✍️ In my free time, I usually listen to music and pursue writing as my hobbies .
 ✉️ You can email me at mohamed.nakbi@esprit.tn. I'll try to respond as soon as possible !
 
 
-<code> <img height="200" src="https://camo.githubusercontent.com/55e1508d75defa7d658205a949df888cfc46f1fc0c933478c71a7d9bd208029a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73776966742d4635344132413f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465>"></code>
+<h1 dir="auto"><a id="user-content-languages-tools-and-platforms" class="anchor" aria-hidden="true" href="#languages-tools-and-platforms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Languages, Tools and Platforms</h1>
+
+
+
