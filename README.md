@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/35609041/227803654-ce99e4a9-c710-445e-a966-e448c6d1169e.gif" width="250"/>
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=ff0000&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B;I'm+Nakbi+Mohamed;Open+source+enthusiast;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%98%87"></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=ff0000&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B;I'm+Nakbi+Mohamed;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%98%87"></div>
 
 <p align="center">
   <a href="https://github.com/mohamednakbi?tab=repositories">
