@@ -46,10 +46,6 @@
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge" style="max-width: 100%;">
 </a>
 
-<a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge" style="max-width: 100%;">
-</a>
-
 <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js Badge" style="max-width: 100%;">
 </a>
@@ -59,21 +55,12 @@
 
 
 <br>
-<a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" style="max-width: 100%;">
-</a>
-
-<a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" style="max-width: 100%;">
-</a>
+ 
 
 <a href="https://swagger.io" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge" style="max-width: 100%;">
 </a>
-
-<a href="https://www.postman.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" style="max-width: 100%;">
-</a>
+ 
 
 <a href="https://github.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="max-width: 100%;">
@@ -89,13 +76,9 @@
 <a href="https://trello.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello Badge" style="max-width: 100%;">
 </a>
-
-<br>
-<a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://bitbucket.org/">
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" style="max-width: 100%;">
 </a>
-
-<br>
 <a href="https://www.android.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android" alt="Android" style="max-width: 100%;">
 </a>
@@ -111,10 +94,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.microsoft.com/windows/">
   <img src="https://img.shields.io/badge/-Windows-090909?style=for-the-badge&logo=Windows" alt="Windows" style="max-width: 100%;">
 </a>
-
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4d6ffe3e9afaca81fc9e8e152db64ee670617dde42a1f48428d8523580b39e72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e7578">
-  <img src="https://camo.githubusercontent.com/4d6ffe3e9afaca81fc9e8e152db64ee670617dde42a1f48428d8523580b39e72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e7578" alt="Linux" data-canonical-src="https://img.shields.io/badge/-Linux-090909?style=for-the-badge&amp;logo=Linux" style="max-width: 100%;"></a></p>
+</p>
 
 
 
