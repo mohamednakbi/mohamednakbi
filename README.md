@@ -65,6 +65,12 @@
 <a href="https://github.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" style="max-width: 100%;">
 </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.keycloak.org/">
+  <img src="https://img.shields.io/badge/Keycloak-7F5F00?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" style="max-width: 100%;">
+</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.atlassian.com/software/jira">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" style="max-width: 100%;">
+</a>
 
 
 <br>
